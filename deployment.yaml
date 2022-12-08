@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: 3.253.16.86:5000/hello-world-war:0.0.1
+        image: 3.253.16.86:5020/hello-world-war:0.0.1
         ports:
         - containerPort: 8080
